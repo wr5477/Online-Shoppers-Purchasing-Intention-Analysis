@@ -60,7 +60,7 @@ We explored relationships between user behavior variables and purchase outcomes 
 - Tree-based feature importance
 - Model interpretation techniques
 
-<img width="648" height="568" alt="image" src="https://github.com/user-attachments/assets/94edba78-2921-4779-b7d0-90ffe5b4b4b1" />
+<img src="https://github.com/user-attachments/assets/94edba78-2921-4779-b7d0-90ffe5b4b4b1" width="600"/>
 
 ---
 
@@ -72,33 +72,28 @@ Multiple classification models were evaluated to predict purchase intention, inc
 
 Model performance was compared using appropriate evaluation metrics to address class imbalance.
 
-<img width="880" height="445" alt="image" src="https://github.com/user-attachments/assets/9a606449-7487-4ac5-9ddb-2685850e02a4" />
+<img src="https://github.com/user-attachments/assets/9a606449-7487-4ac5-9ddb-2685850e02a4" width="600"/>
 
 ---
 
 ### 🔹 Research Question 3: Seasonality & Customer Segmentation
 We analyzed seasonal effects on purchasing behavior and applied clustering techniques to segment users based on behavioral patterns.
 
-<img width="630" height="420" alt="image" src="https://github.com/user-attachments/assets/430870e5-d918-42c0-ae4a-f734061207ad" />
-<img width="615" height="409" alt="image" src="https://github.com/user-attachments/assets/1eff666c-6600-43c5-8466-3bb9c924d015" />
+| Seasonality Analysis | Customer Segmentation |
+|---------------------|-----------------------|
+| <img src="https://github.com/user-attachments/assets/430870e5-d918-42c0-ae4a-f734061207ad" width="280"/> | <img src="https://github.com/user-attachments/assets/1eff666c-6600-43c5-8466-3bb9c924d015" width="280"/> |
 
 ---
 
 ## 📄 Project Deliverables
-The repository includes the following project materials:
 
-- **Project Proposal** – Problem definition, research questions, and planned methodology  
-- **Final Report** – Detailed analysis, results, interpretations, and conclusions  
-- **Presentation Slides** – Concise summary of methods and findings for presentation  
+| Proposal | Final Report | Presentation Slides |
+|---------|--------------|---------------------|
+| <img src="https://github.com/user-attachments/assets/a8d66c98-a04c-402a-9b59-b79aefd57b0a" width="260"/> | <img src="https://github.com/user-attachments/assets/a56141e5-bae3-410d-bad1-6dcd99a17ae8" width="260"/> | <img src="https://github.com/user-attachments/assets/b64f1a44-97f5-407e-ba78-b99ecaccc9f7" width="260"/> |
 
-📸 **Proposal**
-<img width="742" height="551" alt="image" src="https://github.com/user-attachments/assets/a8d66c98-a04c-402a-9b59-b79aefd57b0a" />
-
-📸 **Report**
-<img width="785" height="656" alt="image" src="https://github.com/user-attachments/assets/a56141e5-bae3-410d-bad1-6dcd99a17ae8" />
-
-📸 **Slides**
-<img width="881" height="493" alt="image" src="https://github.com/user-attachments/assets/b64f1a44-97f5-407e-ba78-b99ecaccc9f7" />
+**Proposal** – Problem definition, research questions, and methodology  
+**Final Report** – Detailed analysis, modeling results, and interpretations  
+**Slides** – Concise summary for final presentation
 
 
 ---
