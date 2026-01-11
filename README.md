@@ -112,8 +112,3 @@ We analyzed seasonal effects on purchasing behavior and applied clustering techn
 - Machine learning models can effectively predict purchase intention despite class imbalance  
 - Seasonal and behavioral segmentation provides additional insight beyond traditional classification  
 
----
-
-## 📚 Reference
-This project was completed as part of a UT Austin course and was inspired by publicly available datasets and educational resources related to statistical machine learning.
-
